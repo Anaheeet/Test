@@ -1,4 +1,4 @@
 # Test
 ## Testing my setup
-http://stackoverflow.com {:target="_blank" rel="noopener"}
+<a href="http://stackoverflow.com" target="_blank">http://stackoverflow.com</a>
 Visit https://github.com
